@@ -10,6 +10,8 @@ We fit the model to real brain spectroscopy data, a challenging dataset due to t
 
 For further details please refer to the report.
 
+Part of the project cosisted in the creation of a R library for the multidimensional hidden potts model, which can be downloaded at https://github.com/alfredo-g-zapiola/multiPotts
+
 The content of this project then lead to a publication:
 
 @inproceedings{fe65b2b757614d2d8f93fc702a603819,
